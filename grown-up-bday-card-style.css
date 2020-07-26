@@ -1,0 +1,24 @@
+body {
+    background-color: #fa9bdf;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: large;
+}
+
+.fun {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+
+#cat {
+    height: 350px;
+    width: 400px;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #7105E3;
+}
